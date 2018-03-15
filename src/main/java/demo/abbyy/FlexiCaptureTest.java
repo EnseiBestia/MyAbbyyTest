@@ -6,7 +6,7 @@ import java.net.URL;
 
 
 public class FlexiCaptureTest {
-    public static String serialNumber = "SWTT11020006413654618187";
+    public static String serialNumber = "SWTT-1102-0006-4136-5461-8187";
     public  static String dllPath="X:\\Program Files (x86)\\ABBYY SDK\\11\\FlexiCapture Engine\\Bin";
     public static void main( String[] args )
     {
